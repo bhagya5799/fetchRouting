@@ -1,6 +1,8 @@
 import {Component} from 'react'
 import Loader from 'react-loader-spinner'
+
 import './index.css'
+import 'react-loader-spinner/dist/loader/css/react-spinner-loader.css'
 
 class BlogItemDetails extends Component {
   state = {blogDetails: {}, isLoaded: true}
