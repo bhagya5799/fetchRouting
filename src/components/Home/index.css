@@ -1,0 +1,16 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 3rem;
+}
+
+.profile-img{
+/* height: 4rem; */
+width: 10rem;
+}
+.name{
+    line-height: 1rem;
+}
